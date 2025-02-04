@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @merkulovdm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-merkulovdm/merkulovdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Dmitrii Merkulov
+- 💡 Aspiring Data Analyst with a background in law and a strong analytical mindset.
+- 📊 Passionate about data-driven decision making and uncovering insights through numbers.
+- 🔍 Always curious, I enjoy testing hypotheses and finding alternative solutions to routine tasks.
+  🔧 Technologies & Tools:
+SQL, Python, Excel, Google Sheets, Tableau
+Data visualization & dashboards
+Exploratory data analysis
+- 📫 How to reach me: www.linkedin.com/in/dmitrii-merkulov
