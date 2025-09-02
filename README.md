@@ -13,7 +13,7 @@
 
 ---
 
-## 📂 Projects
+## 📂 Projects (*All projects are written in Russian.*)
 - [Bank Customers Segmentation](https://github.com/merkulovdm/Projects/blob/main/final_project%20(1).ipynb?utm_source=chatgpt.com) — analyzed churn of a regional bank, checked hypotheses about city, credit score and number of products. Built customer clusters and found risk groups.
 - **🔧Tools: pandas, matplotlib, seaborn.**  
 - [Procrastinate Pro+ Loss Analysis](https://github.com/merkulovdm/Projects/blob/main/Убытки%20приложения%20_Procrastinate%20Pro_%20-%20новое%20сохранение.ipynb?utm_source=chatgpt.com) —investigated why marketing costs do not pay back. Analyzed cohorts, retention, ROI and LTV by countries, devices and ad channels. Suggested recommendations for optimization.
